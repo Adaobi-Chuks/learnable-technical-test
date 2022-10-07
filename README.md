@@ -8,9 +8,12 @@ Solution was written in both Java and Javascript.
 
 JAVA:
 1.) cd into the directory.
+
 2.) use "javac nth_rarest_item.java" to compile it.
+
 3.) use "java nth_rarest_item" to run and view the output.
 
 JAVASCRIPT:
 1.) cd into the directory
+
 2.) use "node .\index.js" to run and view the output.
